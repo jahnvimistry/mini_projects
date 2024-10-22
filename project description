@@ -1,0 +1,46 @@
+MINI PROJECT
+CAR RENTAL SYSTEM
+Submitted by: Jahnvi Mistry 
+Enrollment number :12202120601026
+Subject : java mini project
+Year : 3rd year 5th sem
+branch : ai and ds
+
+Car Rental System
+
+Project Description
+The Car Rental System is a desktop application developed using Java Swing, designed to facilitate car rental operations. It allows businesses to manage their car fleet, customer information, reservations, and billing seamlessly. The application provides an easy-to-use graphical user interface (GUI) for managing car availability, processing customer reservations, and tracking payments. The purpose of this project is to demonstrate core object-oriented programming principles and GUI development with Java.
+
+Installation Instructions
+Prerequisites
+Before running the project, ensure you have the following installed:
+•	Java Development Kit (JDK): Version 8 or higher.
+•	Java Swing library: This comes with the standard JDK installation.
+Step-by-Step Setup
+1.	Clone the repository: bash Copy code git clone https://github.com/your-username/CarRentalSystem.git
+2.	Navigate to the project directory: bash Copy code cd CarRentalSystem
+3.	Open the project in a Java IDE (e.g., IntelliJ IDEA, Eclipse, NetBeans).
+4.	Ensure the JDK is configured in your IDE settings.
+5.	Compile and run the CarRentalSystem.java file:
+o	In your IDE, locate CarRentalSystem.java and run the main method.
+o	Alternatively, compile and run from the command line: bash Copy code
+javac CarRentalSystem.java
+java CarRentalSystem
+
+
+Usage Instructions
+Running the Application
+Once the application is running, you'll see a dashboard with options to manage the fleet, customers, reservations, and billing. Here’s how to navigate the app:
+1.	Dashboard: Displays a summary of total cars, available cars, rented cars, and reservations.
+2.	Fleet Management: Lists all the cars, including their type, rent per day, and location.
+3.	Customer Management: View and add customers with name, phone number, and VIP status.
+4.	Reservations: Make and view customer reservations. Ensure a car is available before reserving it.
+5.	Billing & Payments: View payment records and total revenue.
+6.	Reports: Generate reports on total revenue and pending reservations.
+
+Key Actions
+•	Add Customer: Enter customer details and VIP status through a dialog box.
+•	Make Reservation: Choose an available car and customer details to book a rental.
+•	View Reservations: Check existing bookings and their status.
+
+ 
